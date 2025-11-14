@@ -91,8 +91,33 @@
       },
       {
         "event_name": "Just an Acupuncturist, No Worries!",
-        "character_name": "Daiwa Scarlet",
+        "character_name": "URA Finale",
         "chosen": 3
+      },
+      {
+        "event_name": "Wonderful ☆ Mistake!",
+        "character_name": "Sweep Tosho",
+        "chosen": 2
+      },
+      {
+        "event_name": "Warmth, Love, and Lunch",
+        "character_name": "Nishino Flower",
+        "chosen": 1
+      },
+      {
+        "event_name": "A Reasonable Diet vs. an Explosive Diet",
+        "character_name": "Yaeno Muteki",
+        "chosen": 2
+      },
+      {
+        "event_name": "Guidance and Friends",
+        "character_name": "Matikanefukukitaru ",
+        "chosen": 2
+      },
+      {
+        "event_name": "Preparing My Special Move!",
+        "character_name": "Biko Pegasus",
+        "chosen": 2
       }
     ]
   },
